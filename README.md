@@ -2,7 +2,7 @@
 
 > Dyinastie Marchelina Puspitawening
 
-> Tyase Nisa,an Jamilaa
+> Tyase Nisa'an Jamilaa
 
 ## For Login
 
@@ -12,4 +12,4 @@
 
 ## Looker Edited
 
-> Link = https://lookerstudio.google.com/reporting/0ea8c168-32b5-4d36-85e7-a3bc05e3b571
+> Link = https://lookerstudio.google.com/embed/reporting/e79711b7-1bca-4860-8793-118db5f2e331/page/p_4da21lcrqd
